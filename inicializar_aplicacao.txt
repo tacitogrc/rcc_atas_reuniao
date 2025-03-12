@@ -1,0 +1,2 @@
+streamlit run eda.py --server.runOnSave=false
+streamlit run eda.py --server.runOnSave=false --server.fileWatcherType none
